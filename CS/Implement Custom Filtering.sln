@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement Custom Filtering", "Implement Custom Filtering\Implement Custom Filtering.csproj", "{F6DAD165-98E9-44C1-865B-B0487D59F05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6DAD165-98E9-44C1-865B-B0487D59F05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DAD165-98E9-44C1-865B-B0487D59F05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DAD165-98E9-44C1-865B-B0487D59F05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DAD165-98E9-44C1-865B-B0487D59F05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
